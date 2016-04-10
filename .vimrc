@@ -120,7 +120,7 @@ Plug 'christoomey/vim-tmux-navigator'
 
 " Haskell
 Plug 'neovimhaskell/haskell-vim', { 'for': 'haskell' }
-Plug 'eagletmt/ghcmod-vim', { 'for': 'haskell' }
+Plug 'HanStolpo/ghcmod-vim', { 'for': 'haskell', 'branch': 'custom' }
 Plug 'eagletmt/neco-ghc', { 'for': 'haskell' }
 Plug 'Twinside/vim-hoogle', { 'for': 'haskell' }
 Plug 'mpickering/hlint-refactor-vim', { 'for': 'haskell' }
